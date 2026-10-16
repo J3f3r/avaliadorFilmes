@@ -1,0 +1,19 @@
+{
+  "name": "avaliadorfilmes",
+  "version": "1.0.0",
+  "description": "Avaliação e estatísticas de filmes",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "mocha": "^12.0.3"
+  }
+}
